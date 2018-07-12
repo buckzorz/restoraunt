@@ -1,0 +1,214 @@
+{
+    "food": [
+        {
+            "id": "01",
+            "title": "Everything you need",
+            "picturePath": "./pictures/resized1.png",
+            "price": "30$",
+            "description": "Just as the title says. This dish has everything you would ever want ranging from fish fille to delicate bread",
+            "category": "dish",
+            "special": false,
+            "nutrition": {
+                "calories": "543",
+                "protein": "65",
+                "carbohydrates": "12",
+                "fats": "20"
+            }
+        },
+        {
+            "id": "02",
+            "title": "Fetaggi",
+            "picturePath": "./pictures/resized2.png",
+            "price": "35$",
+            "description": "This is our classic. Peaches, brocolli, onion, shrooms. All peapared on a real wood grill and served with delicate tofu",
+            "category": "dish",
+            "special": false,
+            "nutrition": {
+                "calories": "321",
+                "protein": "22",
+                "carbohydrates": "76",
+                "fats": "23"
+            }
+        },
+        {
+            "id": "03",
+            "title": "Chilli ride",
+            "picturePath": "./pictures/resized3.png",
+            "price": "50$",
+            "special": true,
+            "description": "Our hottest dish. Delisios combination of Ghost Reaper pepper grilled with real Foku fush!",
+            "category": "dish",
+            "nutrition": {
+                "calories": "453",
+                "protein": "33",
+                "carbohydrates": "23",
+                "fats": "65"
+            }
+        },
+        {
+            "id": "04",
+            "title": "Mangasta",
+            "picturePath": "./pictures/resized4.png",
+            "price": "20$",
+            "description": "Tini-tiny pasta with a slice of avocado and traditional spices. Will make a great starter dish!",
+            "category": "dish",
+            "special": false,
+            "nutrition": {
+                "calories": "343",
+                "protein": "23",
+                "carbohydrates": "44",
+                "fats": "76"
+            }
+        },
+        {
+            "id": "05",
+            "title": "Fahitos",
+            "picturePath": "./pictures/resized5.png",
+            "price": "15$",
+            "description": "Cheap but golden! If you are hungry this is for you. Fresh tortias served with veggies and rice. Accompanied with our chef sous and a slice of lime! ",
+            "category": "Dish",
+            "special": false,
+            "nutrition": {
+                "calories": "686",
+                "protein": "32",
+                "carbohydrates": "12",
+                "fats": "33"
+            }
+        },
+        {
+            "id": "06",
+            "title": "Salmoniana",
+            "picturePath": "./pictures/resized6.png",
+            "price": "40$",
+            "description": "Grilled salmon with calmar served on top of a classic Cesars salad. This is the dish that will make you come back again and again ",
+            "category": "dish",
+            "special": false,
+            "nutrition": {
+                "calories": "466",
+                "protein": "56",
+                "carbohydrates": "45",
+                "fats": "34"
+            }
+        },
+        {
+            "id": "07",
+            "title": " Pasta el Classico",
+            "picturePath": "./pictures/resized7.png",
+            "price": "19$",
+            "description": "Classic fussli pasta served with a tomato and peaches. With classic spices to top it off. Definatly a classic that wont go anywhere!",
+            "category": "dish",
+            "special": false,
+            "nutrition": {
+                "calories": "345",
+                "protein": "87",
+                "carbohydrates": "23",
+                "fats": "43"
+            }
+        },
+        {
+            "id": "08",
+            "title": "Bowl o' all",
+            "picturePath": "./pictures/resized8.png",
+            "price": "33$",
+            "description": "Super soup! Chicken legs with popatoes and early onions served with a stew that is a secret! Try it out! ",
+            "category": "dish",
+            "special": false,
+            "nutrition": {
+                "calories": "289",
+                "protein": "97",
+                "carbohydrates": "34",
+                "fats": "23"
+            }
+        },
+        {
+            "id": "09",
+            "title": "Veganissimo",
+            "picturePath": "./pictures/resized9.png",
+            "price": "25$",
+            "description": "Avocado with fried potatoes served along with rissoto and black beans. A dish you dream of the whole day!",
+            "category": "dish",
+            "special": false,
+            "nutrition": {
+                "calories": "666",
+                "protein": "23",
+                "carbohydrates": "43",
+                "fats": "54"
+            }
+        },
+        {
+            "id": "10",
+            "title": "Twisted El Classico",
+            "picturePath": "./pictures/resized10.png",
+            "price": "31$",
+            "description": "This dish takes our Pasta el Classico as its fundamant and builds on top of it with our Chef's special sous!",
+            "category": "Dish",
+            "special": false,
+            "nutrition": {
+                "calories": "766",
+                "protein": "23",
+                "carbohydrates": "23",
+                "fats": "12"
+            }
+        },
+        {
+            "id": "11",
+            "title": "Vegan explosion",
+            "picturePath": "./pictures/resized11.png",
+            "price": "37$",
+            "description": "Rare and raw! Season vegetables that you are used to but with something special that you wont find anywhere else!",
+            "category": "Dish",
+            "special": false,
+            "nutrition": {
+                "calories": "531",
+                "protein": "32",
+                "carbohydrates": "14",
+                "fats": "88"
+            }
+        },
+        {
+            "id": "12",
+            "title": "Meaters!",
+            "picturePath": "./pictures/resized12.png",
+            "price": "45$",
+            "special": true,
+            "description": "Almost raw Beef that was flown here right from Alps. Served with veggies also from Alps. We just couldn't separate em'",
+            "category": "dish",
+            "nutrition": {
+                "calories": "233",
+                "protein": "32",
+                "carbohydrates": "12",
+                "fats": "32"
+            }
+        },
+        {
+            "id": "13",
+            "title": "Chicken-Chicken",
+            "picturePath": "./pictures/resized13.png",
+            "price": "10$",
+            "description": "Just a tenner stew just like your mama makes! Dilightful chiken with carrots and whole wheat pasta. Taste of home!",
+            "category": "food",
+            "special": false,
+            "nutrition": {
+                "calories": "233",
+                "protein": "32",
+                "carbohydrates": "12",
+                "fats": "32"
+            }
+        },
+        {
+            "id": "14",
+            "title": "Ou'Strich",
+            "picturePath": "./pictures/resized14.png",
+            "price": "55$",
+            "description": "A true delicasy! Served oustrich with a some veggies to accompanie its taste!",
+            "category": "dish",
+            "special": true,
+            "nutrition": {
+                "calories": "233",
+                "protein": "32",
+                "carbohydrates": "12",
+                "fats": "32"
+            }
+        }
+    ]
+}
